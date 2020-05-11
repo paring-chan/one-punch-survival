@@ -49,7 +49,7 @@ class CommandRemove : CommandComponent {
         var player = Bukkit.getPlayer(args.last())
         if (player != null) {
             if (player.isOnline) {
-                pl.players.add(player)
+                pl.players.remove(player)
                 sender.sendMessage("${player.displayName}님이 플레이어 목록에서 제거되었습니다.")
             } else {
                 sender.sendMessage("플레이어 ${player.displayName}님이 온라인이 아닙니다.")

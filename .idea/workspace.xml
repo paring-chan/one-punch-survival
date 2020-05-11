@@ -8,7 +8,9 @@
   <component name="ChangeListManager">
     <list default="true" id="7901d119-31be-4e2f-ad70-5f614d7f026d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/tk/pshub/parangee/onepunchsurvival/plugin/listeners/EntityEvents.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/tk/pshub/parangee/onepunchsurvival/plugin/listeners/EntityEvents.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/tk/pshub/parangee/onepunchsurvival/plugin/command/CommandRemove.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/tk/pshub/parangee/onepunchsurvival/plugin/command/CommandRemove.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/tk/pshub/parangee/onepunchsurvival/plugin/listeners/EntityEvents.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/tk/pshub/parangee/onepunchsurvival/plugin/listeners/EntityEvents.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/tk/pshub/parangee/onepunchsurvival/plugin/command/Commands.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/tk/pshub/parangee/onepunchsurvival/plugin/command/Commands.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
