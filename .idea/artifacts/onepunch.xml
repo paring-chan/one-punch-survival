@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="onepunch">
+    <output-path>$PROJECT_DIR$/../../놀이터/녹화/서버/plugins</output-path>
+    <root id="archive" name="onepunch.jar">
+      <element id="module-output" name="OnePunchSurvival.main" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources" />
+    </root>
+  </artifact>
+</component>
