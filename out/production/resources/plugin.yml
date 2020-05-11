@@ -1,9 +1,0 @@
-name: OnePunchSurvival
-version: 0.1
-main: tk.pshub.parangee.onepunchsurvival.plugin.OnePunchSurvival
-depend:
-  - Kotlin
-  - Tap
-commands:
-  onepunch:
-    permission: onepunch-command
