@@ -4,6 +4,7 @@ plugins {
 sourceSets {
     main {
         java.srcDirs("src/main/kotlin")
+        resources.srcDirs("src/main/resources")
     }
 }
 group = "tk.pshub.parangee"
